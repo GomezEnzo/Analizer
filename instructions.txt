@@ -1,0 +1,11 @@
+Analizador lexico y sintáctico:
+
+El archivo ejecutable de la aplicación (analizer.exe) se encuentra dentro de la carpeta "Debuger".
+Al abrirla, se encontrará con un menú que le solicitará ingresar el número que identifique la acción a realizar.
+		Ejemplo: Si desea realizar la acción "2_ Desplegar arbol de derivación", deberá ingresar el numero 2 y presionar "Enter".
+
+Nota: Al solicitar la acción "Ingrasar cadena" el programa continuará solicitando cadenas hasta que se cierre.
+En los archivos "ejemplo....txt" encontrará ejemplos de cadenas válidas e inválidas para ingresar en el analizador.
+
+
+Enzo Gómez :)
